@@ -1,0 +1,15 @@
+{
+  "session_id": "c038d732-01dd-4cd7-bf2c-d57e26506f7e",
+  "messages": [
+    {
+      "role": "user",
+      "content": "summarize",
+      "timestamp": "2025-07-23T21:16:17.186782"
+    },
+    {
+      "role": "assistant",
+      "content": "The document outlines a project proposal for a \"Reverse Car Parking System and Automatic Speed Control.\" The main deliverable is a system designed to assist drivers in parking their electric vehicles (EVs) by using audio-visual signals and incorporating automatic speed control to reduce accident risks during prolonged reversing.\n\n**Key Components:**\n- Raspberry Pi (Broadcom BCM2711, Quadcore Cortex-A72)\n- 7” display compatible with Raspberry Pi 3/4\n- L293D motor IC for motor control\n- HCSR-04 ultrasound sensor\n- 2MP Pi camera\n- Jumper cables and custom motor driver PCB\n\n**Objective:** To develop a reverse parking system with automatic speed control for the institute’s EV car.\n\n**Team Members:**\n1. Abhinav Tripathi (Roll No. 230957)\n2. Karmanya Bhalla (Roll No. 230864)\n\nThe proposal includes a brief description of the project, emphasizing its functionality and safety features.",
+      "timestamp": "2025-07-23T21:16:17.190765"
+    }
+  ]
+}

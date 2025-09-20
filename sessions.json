@@ -1,0 +1,476 @@
+{
+  "aa825c0d-589c-4392-b257-d2b4dafc77c4": {
+    "session_id": "aa825c0d-589c-4392-b257-d2b4dafc77c4",
+    "document_name": "Beti Bachao Beti Padhao.pdf",
+    "file_path": "temp\\Beti Bachao Beti Padhao.pdf",
+    "file_type": "pdf",
+    "user_id": 1,
+    "created_at": "2025-07-25T10:08:38.312212",
+    "last_accessed": "2025-09-20T08:26:04.882311",
+    "chat_history": [
+      {
+        "role": "user",
+        "content": "summarize",
+        "timestamp": "2025-07-25T10:23:46.377137"
+      },
+      {
+        "role": "assistant",
+        "content": "The document outlines the implementation and monitoring framework for the Beti Bachao Beti Padhao (BBBP) scheme, focusing on various activities and timelines for effective execution at the district level. Key components include:\n\n1. **Quarterly Activities**: Regular meetings of the District Task Force (DTF) and Block Task Force (BTF) are mandated, along with inter-sectoral meetings to ensure collaboration among departments.\n\n2. **Monitoring and Reporting**: A structured format is provided for monitoring progress, including parameters like training programs, awareness activities, and compliance with the Pre-Conception and Pre-Natal Diagnostic Techniques (PC & PNDT) Act. Reports are to be submitted quarterly and annually, with specific deadlines.\n\n3. **Community Engagement**: The document emphasizes the importance of community involvement through initiatives like Mahila Sabhas, special Gram Sabhas, and celebrations of girl children to promote awareness and value for girls.\n\n4. **Capacity Building**: Training programs are organized for various stakeholders, including administrative and health workers, to enhance their effectiveness in implementing the scheme.\n\n5. **Timelines**: Important timelines for activities such as the constitution of task forces and submission of reports are specified to ensure timely execution.\n\nOverall, the document serves as a comprehensive guide for district-level officials to implement and monitor the BBBP scheme effectively, aiming to improve the status of the girl child in India.",
+        "timestamp": "2025-07-25T10:23:46.399076"
+      },
+      {
+        "role": "user",
+        "content": "monitoring aur reporting se kya hoga aur impact kya hai",
+        "timestamp": "2025-09-19T19:44:16.036568"
+      },
+      {
+        "role": "assistant",
+        "content": "Monitoring aur reporting se yeh hoga ki Beti Bachao Beti Padhao (BBBP) yojana ke antargat kiye gaye karyon ki pragati ka pata chalega. Isse yeh sunishchit hoga ki yojana ke lakshya aur niyamon ka palan ho raha hai ya nahi. \n\nImpact yeh hoga:\n1. **Pragati ka Mulyankan**: Yojana ke karyakramon ki safalta ka mulyankan hoga, jaise ki ladkiyon ki shiksha, unka suraksha, aur samajik jagrukta.\n2. **Samasyaon ka Samadhan**: Agar koi samasya ya rukawat hoti hai, to unhe samay par pehchana ja sakega aur sudhar ke liye kadam uthaye ja sakte hain.\n3. **Samasyaon ki Jankari**: PC & PNDT Act ke tahat hone wale niyantran aur jaanch ki jankari milegi, jo ladkiyon ke janm aur unki suraksha se judi hai.\n4. **Samasyaon ka Samadhan**: Aam janta aur sarkari vibhaag ke beech samvaad badhega, jo yojana ki safalta ke liye aavashyak hai.\n\nIs prakar, monitoring aur reporting se yojana ki pragati ko track karne ke saath-saath samaj mein ladkiyon ke prati drishti aur vyavhaar mein sudhar aane ki sambhavana hai.",
+        "timestamp": "2025-09-19T19:44:16.036568"
+      },
+      {
+        "role": "user",
+        "content": "capacity building cenduku cheyaali inka cheste koda em autundi",
+        "timestamp": "2025-09-19T19:45:37.351249"
+      },
+      {
+        "role": "assistant",
+        "content": "Capacity building cheyadam valla, Beti Bachao Beti Padhao (BBBP) yojana lo prabhutva, samajika samavesham, mariyu ladki laa samrakshan lo chala manchi parinamalu ostayi. \n\n1. **Prashikshan**: AWW, ASHA, mariyu itara frontline workers ki gender sambandhinchina vishayalu pai prashikshan ivvadam valla, vaari samarthyam penchukuntundi. \n\n2. **Jagrukata**: Yojana pai jagrukata penchadam valla, samajam lo ladki laa prati manchi drishti mariyu samarthyam kalugutundi.\n\n3. **Sahakaram**: Local NGOs, samudayika sangathanalu, mariyu prajala sahakaram valla, yojana ni prabhavitanga implement cheyadam lo sahayam chestundi.\n\n4. **Sankalpam**: Ladki laa shiksha, samrakshan, mariyu samajika sthayi lo penchukovadam valla, CSR (Child Sex Ratio) ni improve cheyadam lo sahayapadutundi.\n\nIlaanti capacity building activities valla, yojana yoka prabhavam penchukovadam, samajika badalavani kaliginchadam, mariyu ladki laa sthayi ni improve cheyadam lo sahayapadutundi.",
+        "timestamp": "2025-09-19T19:45:37.351249"
+      },
+      {
+        "role": "user",
+        "content": "child sex ratio india le yowlo irkada ippo",
+        "timestamp": "2025-09-19T19:46:33.010471"
+      },
+      {
+        "role": "assistant",
+        "content": "Document lo child sex ratio (CSR) gurinchi specific data ivvabadaledu. Kani, context lo cheppina prakaranga, 1961 nundi 2011 varaku girls' births ki boys' births ki ratio 976 nundi 918 ki thaggindi. I ratio decline avvadam valla, Government of India Beti Bachao Beti Padhao (BBBP) yojana ni prarambhinchindi, CSR ni improve cheyadaniki. \n\nCurrent CSR gurinchi specific information ivvadam ledu. Adi telusukovali ante, samprathi sarkari sources ni chudali.",
+        "timestamp": "2025-09-19T19:46:33.010471"
+      },
+      {
+        "role": "user",
+        "content": "nao hecchu makkala lyngic anupathavannu kadime madidare anu aguttade?",
+        "timestamp": "2025-09-19T19:47:35.737588"
+      },
+      {
+        "role": "assistant",
+        "content": "Document lo child sex ratio (CSR) kadime avvadam yoka karanalu cheppabadindi. 2011 Census prakaram, CSR 976 nundi 918 ki thaggindi, idi low sex ratio at birth (SSRB) valla jarigindi. \n\nLow SSRB ante, 1 crore boys ki 1 crore girls ki ratio thaggadam, valla samajika karanalu, puttina pillalu ki sambandhinchina preference, discrimination, mariyu diagnostic tools yoka misuse valla jarugutundi. \n\nIlaanti kadime valla, samajika samasyaalu, ladki laa prati drishti, mariyu unka samrakshan lo kothaga prabhavalu kalugutayi. Government of India, Beti Bachao Beti Padhao (BBBP) yojana dvara, CSR ni improve cheyadaniki prayatnam chestondi. \n\nKani, specific ga \"hecchu makkala lyngic anupathavannu kadime madidare\" ante, document lo a vishayam gurinchi specific information ivvadaledu.",
+        "timestamp": "2025-09-19T19:47:35.737588"
+      },
+      {
+        "role": "user",
+        "content": "census ke hisaab se sex ratio ab kitna chal rha hai",
+        "timestamp": "2025-09-19T19:52:01.384800"
+      },
+      {
+        "role": "assistant",
+        "content": "Document lo current child sex ratio (CSR) gurinchi specific data ivvadaledu. Kani, 2011 Census prakaram, CSR 976 nundi 918 ki thaggindi. I data prakaram, boys ki comparison lo girls ki janm anupathamu thaggindi. \n\nCurrent CSR gurinchi telusukovali ante, samprathi sarkari sources ni chudali, endukante document lo a vishayam gurinchi updated information ivvadaledu.",
+        "timestamp": "2025-09-19T19:52:01.384800"
+      },
+      {
+        "role": "user",
+        "content": "give answer in hindi",
+        "timestamp": "2025-09-19T19:52:29.035812"
+      },
+      {
+        "role": "assistant",
+        "content": "Document ke anusar, 2011 Census ke hisaab se child sex ratio (CSR) 976 se ghatkar 918 ho gaya hai. Yeh decline low sex ratio at birth (SSRB) ke karan hua hai, jiska matlab hai ki har 1 crore boys par sirf 918 girls janm leti hain. \n\nIske peeche ke kaaran hain:\n1. Ladkon ke liye samajik pasand.\n2. Ladkiyon ke prati bhedbhav.\n3. Prenatal sex determination ka illegal istemal.\n\nIs samasya ko door karne ke liye, Government of India ne Beti Bachao Beti Padhao (BBBP) yojana shuru ki hai, jiska lakshya ladkiyon ki suraksha, shiksha aur unki samajik sthiti ko sudharna hai. \n\nAgar aapko current CSR ke baare mein aur jaankari chahiye, to aapko sarkari srot ya reports dekhni chahiye, kyunki document mein iski updated information nahi di gayi hai.",
+        "timestamp": "2025-09-19T19:52:29.035812"
+      },
+      {
+        "role": "user",
+        "content": "how is Prenatal sex determination used illegally \nanswer in hindi",
+        "timestamp": "2025-09-20T08:26:04.872734"
+      },
+      {
+        "role": "assistant",
+        "content": "Prenatal sex determination ka illegal istemal tab hota hai jab log ultrasound ya anya diagnostic techniques ka upyog karke fetus ke sex ka pata karte hain aur is jankari ka istemal ladkiyon ke janm ko rokne ke liye karte hain. Yeh kuch tarikon se hota hai:\n\n1. **Ultrasound ka istemal**: Kuch clinics ya doctors prenatal sex determination ke liye ultrasound ka istemal karte hain, jo ki PC & PNDT Act ke tahat mana hai.\n\n2. **Jankari ka chori**: Jab parents ya parivar ko fetus ka sex pata chalta hai, to agar yeh ladki hoti hai, to kuch log uska janm rokne ka faisla karte hain, jo ki illegal hai.\n\n3. **Corruption aur bhedbhav**: Kuch healthcare providers is prakriya ko chhupakar karte hain aur illegal taur par sex determination karte hain, jo samajik bhedbhav aur ladkiyon ke prati nafrat ko badhava deta hai.\n\nYeh sab illegal practices na sirf kanuni tor par galat hain, balki yeh samajik samasyaon ko bhi janm dete hain, jaise ki ladkiyon ki kami aur unki suraksha ka khatara. Isliye, Government of India ne PC & PNDT Act banaya hai taaki is prakriya ko roka ja sake aur ladkiyon ke janm ko surakshit kiya ja sake.",
+        "timestamp": "2025-09-20T08:26:04.875259"
+      }
+    ]
+  },
+  "6a78482b-efc1-4db2-8e35-59b278a51133": {
+    "session_id": "6a78482b-efc1-4db2-8e35-59b278a51133",
+    "document_name": "REVERSE CAR PARKING SYSTEM.pdf",
+    "file_path": "temp\\REVERSE CAR PARKING SYSTEM.pdf",
+    "file_type": "pdf",
+    "user_id": 1,
+    "created_at": "2025-07-25T10:24:00.209351",
+    "last_accessed": "2025-09-20T08:25:04.984244",
+    "chat_history": [
+      {
+        "role": "user",
+        "content": "summarize",
+        "timestamp": "2025-07-25T10:24:31.397085"
+      },
+      {
+        "role": "assistant",
+        "content": "The document outlines a project proposal for a \"Reverse Car Parking System and Automatic Speed Control.\" The end product is a system designed to assist drivers in parking their electric vehicles (EVs) by using audio-visual signals and includes a feature for automatic speed control during prolonged reversing to enhance safety.\n\nKey components of the project include:\n- A Raspberry Pi (Broadcom BCM2711, Quadcore Cortex-A72)\n- A 7-inch display\n- L293D motor IC for a custom motor driver\n- An ultrasound sensor (HCSR-04)\n- A 2MP Pi camera\n- Jumper cables and a custom motor driver PCB\n\nThe project aims to develop this system specifically for the institute's EV car. Team members involved are Abhinav Tripathi and Karmanya Bhalla, both in their second semester.",
+        "timestamp": "2025-07-25T10:24:31.399080"
+      },
+      {
+        "role": "user",
+        "content": "Who is Binav Tripathi and Karamaniya Bhalla?",
+        "timestamp": "2025-09-19T20:30:41.684510"
+      },
+      {
+        "role": "assistant",
+        "content": "The correct names are Abhinav Tripathi and Karmanya Bhalla. They are team members involved in the project proposal for the Reverse Car Parking System and Automatic Speed Control. Both are in their second semester, with Abhinav Tripathi having the roll number 230957 and Karmanya Bhalla having the roll number 230864. Their email addresses are provided in the document as well.",
+        "timestamp": "2025-09-19T20:30:41.684510"
+      },
+      {
+        "role": "user",
+        "content": "Who is Abhinav Tripathi and Karmanya Bhalla? Give answer in Hindi.",
+        "timestamp": "2025-09-19T20:31:14.330869"
+      },
+      {
+        "role": "assistant",
+        "content": "\u0905\u092d\u093f\u0928\u0935 \u0924\u094d\u0930\u093f\u092a\u093e\u0920\u0940 \u0914\u0930 \u0915\u0930\u094d\u092e\u0928\u094d\u092f\u093e \u092d\u0932\u094d\u0932\u093e \u0907\u0938 \u092a\u0930\u093f\u092f\u094b\u091c\u0928\u093e \u092a\u094d\u0930\u0938\u094d\u0924\u093e\u0935 \u0915\u0947 \u091f\u0940\u092e \u0938\u0926\u0938\u094d\u092f \u0939\u0948\u0902\u0964 \u0926\u094b\u0928\u094b\u0902 \u0926\u0942\u0938\u0930\u0947 \u0938\u0947\u092e\u0947\u0938\u094d\u091f\u0930 \u092e\u0947\u0902 \u0939\u0948\u0902\u0964 \u0905\u092d\u093f\u0928\u0935 \u0924\u094d\u0930\u093f\u092a\u093e\u0920\u0940 \u0915\u093e \u0930\u094b\u0932 \u0928\u0902\u092c\u0930 230957 \u0939\u0948 \u0914\u0930 \u0909\u0928\u0915\u0940 \u0908\u092e\u0947\u0932 \u0906\u0908\u0921\u0940 abhinav.tripathi@bmu.edu.in \u0939\u0948\u0964 \u0915\u0930\u094d\u092e\u0928\u094d\u092f\u093e \u092d\u0932\u094d\u0932\u093e \u0915\u093e \u0930\u094b\u0932 \u0928\u0902\u092c\u0930 230864 \u0939\u0948 \u0914\u0930 \u0909\u0928\u0915\u0940 \u0908\u092e\u0947\u0932 \u0906\u0908\u0921\u0940 karmanya.bhalla@bmu.edu.in \u0939\u0948\u0964",
+        "timestamp": "2025-09-19T20:31:14.330869"
+      },
+      {
+        "role": "user",
+        "content": "Abhinav Tripathi Karmanya Bhalla Yavru, Details Chepandi",
+        "timestamp": "2025-09-19T20:31:58.464248"
+      },
+      {
+        "role": "assistant",
+        "content": "\u0905\u092d\u093f\u0928\u0935 \u0924\u094d\u0930\u093f\u092a\u093e\u0920\u0940 \u0914\u0930 \u0915\u0930\u094d\u092e\u0928\u094d\u092f\u093e \u092d\u0932\u094d\u0932\u093e \u0907\u0938 \u092a\u0930\u093f\u092f\u094b\u091c\u0928\u093e \u0915\u0947 \u091f\u0940\u092e \u0938\u0926\u0938\u094d\u092f \u0939\u0948\u0902\u0964 \n\n- **\u0905\u092d\u093f\u0928\u0935 \u0924\u094d\u0930\u093f\u092a\u093e\u0920\u0940**:\n  - \u0930\u094b\u0932 \u0928\u0902\u092c\u0930: 230957\n  - \u0908\u092e\u0947\u0932 \u0906\u0908\u0921\u0940: abhinav.tripathi@bmu.edu.in\n  - \u092e\u094b\u092c\u093e\u0907\u0932 \u0928\u0902\u092c\u0930: 9015697710\n  - \u0938\u0947\u092e\u0947\u0938\u094d\u091f\u0930: II\n\n- **\u0915\u0930\u094d\u092e\u0928\u094d\u092f\u093e \u092d\u0932\u094d\u0932\u093e**:\n  - \u0930\u094b\u0932 \u0928\u0902\u092c\u0930: 230864\n  - \u0908\u092e\u0947\u0932 \u0906\u0908\u0921\u0940: karmanya.bhalla@bmu.edu.in\n  - \u092e\u094b\u092c\u093e\u0907\u0932 \u0928\u0902\u092c\u0930: 7840048111\n  - \u0938\u0947\u092e\u0947\u0938\u094d\u091f\u0930: II\n\n\u0926\u094b\u0928\u094b\u0902 \u091b\u093e\u0924\u094d\u0930 \u0926\u0942\u0938\u0930\u0947 \u0938\u0947\u092e\u0947\u0938\u094d\u091f\u0930 \u092e\u0947\u0902 \u0939\u0948\u0902\u0964",
+        "timestamp": "2025-09-19T20:31:58.464248"
+      },
+      {
+        "role": "user",
+        "content": "Give answer in Telugu.",
+        "timestamp": "2025-09-19T20:32:15.985307"
+      },
+      {
+        "role": "assistant",
+        "content": "\u0c05\u0c2d\u0c3f\u0c28\u0c35\u0c4d \u0c24\u0c4d\u0c30\u0c3f\u0c2a\u0c3e\u0c20\u0c3f \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c15\u0c30\u0c4d\u0c2e\u0c28\u0c4d\u0c2f \u0c2d\u0c32\u0c4d\u0c32\u0c3e \u0c08 \u0c2a\u0c4d\u0c30\u0c3e\u0c1c\u0c46\u0c15\u0c4d\u0c1f\u0c4d\u200c\u0c32\u0c4b \u0c38\u0c2d\u0c4d\u0c2f\u0c41\u0c32\u0c41\u0c17\u0c3e \u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41.\n\n- **\u0c05\u0c2d\u0c3f\u0c28\u0c35\u0c4d \u0c24\u0c4d\u0c30\u0c3f\u0c2a\u0c3e\u0c20\u0c3f**:\n  - \u0c30\u0c4b\u0c32\u0c4d \u0c28\u0c02\u0c2c\u0c30\u0c4d: 230957\n  - \u0c07\u0c2e\u0c46\u0c2f\u0c3f\u0c32\u0c4d \u0c10\u0c21\u0c3f: abhinav.tripathi@bmu.edu.in\n  - \u0c2e\u0c4a\u0c2c\u0c48\u0c32\u0c4d \u0c28\u0c02\u0c2c\u0c30\u0c4d: 9015697710\n  - \u0c38\u0c46\u0c2e\u0c3f\u0c38\u0c4d\u0c1f\u0c30\u0c4d: II\n\n- **\u0c15\u0c30\u0c4d\u0c2e\u0c28\u0c4d\u0c2f \u0c2d\u0c32\u0c4d\u0c32\u0c3e**:\n  - \u0c30\u0c4b\u0c32\u0c4d \u0c28\u0c02\u0c2c\u0c30\u0c4d: 230864\n  - \u0c07\u0c2e\u0c46\u0c2f\u0c3f\u0c32\u0c4d \u0c10\u0c21\u0c3f: karmanya.bhalla@bmu.edu.in\n  - \u0c2e\u0c4a\u0c2c\u0c48\u0c32\u0c4d \u0c28\u0c02\u0c2c\u0c30\u0c4d: 7840048111\n  - \u0c38\u0c46\u0c2e\u0c3f\u0c38\u0c4d\u0c1f\u0c30\u0c4d: II\n\n\u0c30\u0c46\u0c02\u0c21\u0c41 \u0c35\u0c3f\u0c26\u0c4d\u0c2f\u0c3e\u0c30\u0c4d\u0c25\u0c41\u0c32\u0c41 \u0c30\u0c46\u0c02\u0c21\u0c4b \u0c38\u0c46\u0c2e\u0c3f\u0c38\u0c4d\u0c1f\u0c30\u0c4d\u200c\u0c32\u0c4b \u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41.",
+        "timestamp": "2025-09-19T20:32:15.985307"
+      },
+      {
+        "role": "user",
+        "content": "The people of Gurgaon are such morons!",
+        "timestamp": "2025-09-19T20:32:46.180569"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to assist with questions related to the provided document context. If you have any questions about the project proposal or its details, feel free to ask!",
+        "timestamp": "2025-09-19T20:32:46.180569"
+      },
+      {
+        "role": "user",
+        "content": "Why is a 7 inch display used? Answer in Malayalam",
+        "timestamp": "2025-09-20T08:18:31.793176"
+      },
+      {
+        "role": "assistant",
+        "content": "\u0d26\u0d38\u0d4d\u0d24\u0d3e\u0d35\u0d47\u0d1c\u0d24\u0d4d\u0d24\u0d3f\u0d7d 7 \u0d07\u0d1e\u0d4d\u0d1a\u0d4d \u0d21\u0d3f\u0d38\u0d4d\u200c\u0d2a\u0d4d\u0d32\u0d47 \u0d09\u0d2a\u0d2f\u0d4b\u0d17\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d2a\u0d4d\u0d30\u0d24\u0d4d\u0d2f\u0d47\u0d15 \u0d15\u0d3e\u0d30\u0d23\u0d02 \u0d35\u0d4d\u0d2f\u0d15\u0d4d\u0d24\u0d2e\u0d3e\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d35\u0d3f\u0d35\u0d30\u0d19\u0d4d\u0d19\u0d7e \u0d07\u0d32\u0d4d\u0d32. \u0d0e\u0d28\u0d4d\u0d28\u0d3e\u0d7d, \u0d38\u0d3e\u0d27\u0d3e\u0d30\u0d23\u0d2f\u0d3e\u0d2f\u0d3f, 7 \u0d07\u0d1e\u0d4d\u0d1a\u0d4d \u0d21\u0d3f\u0d38\u0d4d\u200c\u0d2a\u0d4d\u0d32\u0d47\u0d15\u0d7e \u0d15\u0d3e\u0d31\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d31\u0d3f\u0d35\u0d47\u0d34\u0d4d\u0d38\u0d4d \u0d2a\u0d3e\u0d7c\u0d15\u0d4d\u0d15\u0d3f\u0d02\u0d17\u0d4d \u0d38\u0d3f\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d21\u0d4d\u0d30\u0d48\u0d35\u0d7c\u0d15\u0d4d\u0d15\u0d4d \u0d26\u0d43\u0d36\u0d4d\u0d2f\u0d19\u0d4d\u0d19\u0d7e \u0d2a\u0d4d\u0d30\u0d26\u0d7c\u0d36\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d7b \u0d09\u0d2a\u0d2f\u0d4b\u0d17\u0d3f\u0d15\u0d4d\u0d15\u0d2a\u0d4d\u0d2a\u0d46\u0d1f\u0d41\u0d28\u0d4d\u0d28\u0d41, \u0d07\u0d24\u0d4d \u0d21\u0d4d\u0d30\u0d48\u0d35\u0d3f\u0d19\u0d4d \u0d05\u0d28\u0d41\u0d2d\u0d35\u0d02 \u0d2e\u0d46\u0d1a\u0d4d\u0d1a\u0d2a\u0d4d\u0d2a\u0d46\u0d1f\u0d41\u0d24\u0d4d\u0d24\u0d3e\u0d7b \u0d38\u0d39\u0d3e\u0d2f\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41. ",
+        "timestamp": "2025-09-20T08:18:31.794924"
+      },
+      {
+        "role": "user",
+        "content": "7-inch display used answer in Malayalam, but it should be written in English",
+        "timestamp": "2025-09-20T08:18:49.744820"
+      },
+      {
+        "role": "assistant",
+        "content": "7-inch display \u0d09\u0d2a\u0d2f\u0d4b\u0d17\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d24\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d2a\u0d4d\u0d30\u0d24\u0d4d\u0d2f\u0d47\u0d15 \u0d15\u0d3e\u0d30\u0d23\u0d02 \u0d26\u0d38\u0d4d\u0d24\u0d3e\u0d35\u0d47\u0d1c\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d35\u0d4d\u0d2f\u0d15\u0d4d\u0d24\u0d2e\u0d3e\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d35\u0d3f\u0d35\u0d30\u0d19\u0d4d\u0d19\u0d7e \u0d07\u0d32\u0d4d\u0d32. \u0d0e\u0d28\u0d4d\u0d28\u0d3e\u0d7d, \u0d38\u0d3e\u0d27\u0d3e\u0d30\u0d23\u0d2f\u0d3e\u0d2f\u0d3f, 7-inch display\u0d15\u0d7e \u0d15\u0d3e\u0d31\u0d3f\u0d28\u0d4d\u0d31\u0d46 \u0d31\u0d3f\u0d35\u0d47\u0d34\u0d4d\u0d38\u0d4d \u0d2a\u0d3e\u0d7c\u0d15\u0d4d\u0d15\u0d3f\u0d02\u0d17\u0d4d \u0d38\u0d3f\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d24\u0d4d\u0d24\u0d3f\u0d7d \u0d21\u0d4d\u0d30\u0d48\u0d35\u0d7c\u0d15\u0d4d\u0d15\u0d4d \u0d26\u0d43\u0d36\u0d4d\u0d2f\u0d19\u0d4d\u0d19\u0d7e \u0d2a\u0d4d\u0d30\u0d26\u0d7c\u0d36\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d7b \u0d09\u0d2a\u0d2f\u0d4b\u0d17\u0d3f\u0d15\u0d4d\u0d15\u0d2a\u0d4d\u0d2a\u0d46\u0d1f\u0d41\u0d28\u0d4d\u0d28\u0d41, \u0d07\u0d24\u0d4d \u0d21\u0d4d\u0d30\u0d48\u0d35\u0d3f\u0d19\u0d4d \u0d05\u0d28\u0d41\u0d2d\u0d35\u0d02 \u0d2e\u0d46\u0d1a\u0d4d\u0d1a\u0d2a\u0d4d\u0d2a\u0d46\u0d1f\u0d41\u0d24\u0d4d\u0d24\u0d3e\u0d7b \u0d38\u0d39\u0d3e\u0d2f\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41.",
+        "timestamp": "2025-09-20T08:18:49.744820"
+      },
+      {
+        "role": "user",
+        "content": "Answer in Hindi, Karna in Telugu",
+        "timestamp": "2025-09-20T08:19:12.588605"
+      },
+      {
+        "role": "assistant",
+        "content": "\u0926\u0938\u094d\u0924\u093e\u0935\u0947\u091c\u093c \u092e\u0947\u0902 7 \u0907\u0902\u091a \u0915\u0947 \u0921\u093f\u0938\u094d\u092a\u094d\u0932\u0947 \u0915\u093e \u0909\u092a\u092f\u094b\u0917 \u0915\u0930\u0928\u0947 \u0915\u093e \u0935\u093f\u0936\u0947\u0937 \u0915\u093e\u0930\u0923 \u0938\u094d\u092a\u0937\u094d\u091f \u0928\u0939\u0940\u0902 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964 \u0939\u093e\u0932\u093e\u0902\u0915\u093f, \u0938\u093e\u092e\u093e\u0928\u094d\u092f\u0924\u0903, 7 \u0907\u0902\u091a \u0915\u093e \u0921\u093f\u0938\u094d\u092a\u094d\u0932\u0947 \u0921\u094d\u0930\u093e\u0907\u0935\u0930 \u0915\u094b \u0930\u093f\u0935\u0930\u094d\u0938 \u092a\u093e\u0930\u094d\u0915\u093f\u0902\u0917 \u0938\u093f\u0938\u094d\u091f\u092e \u092e\u0947\u0902 \u0926\u0943\u0936\u094d\u092f \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u092a\u094d\u0930\u0926\u0930\u094d\u0936\u093f\u0924 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0909\u092a\u092f\u094b\u0917 \u0915\u093f\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948, \u091c\u093f\u0938\u0938\u0947 \u0921\u094d\u0930\u093e\u0907\u0935\u093f\u0902\u0917 \u0905\u0928\u0941\u092d\u0935 \u0915\u094b \u092c\u0947\u0939\u0924\u0930 \u092c\u0928\u093e\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u092e\u093f\u0932\u0924\u0940 \u0939\u0948.\n\n\u0c07\u0c26\u0c3f \u0c38\u0c3e\u0c27\u0c3e\u0c30\u0c23\u0c02\u0c17\u0c3e, 7 \u0c07\u0c02\u0c1a\u0c4d \u0c21\u0c3f\u0c38\u0c4d\u200c\u0c2a\u0c4d\u0c32\u0c47 \u0c21\u0c4d\u0c30\u0c48\u0c35\u0c30\u0c4d\u200c\u0c15\u0c41 \u0c30\u0c3f\u0c35\u0c30\u0c4d\u0c38\u0c4d \u0c2a\u0c3e\u0c30\u0c4d\u0c15\u0c3f\u0c02\u0c17\u0c4d \u0c38\u0c3f\u0c38\u0c4d\u0c1f\u0c2e\u0c4d\u200c\u0c32\u0c4b \u0c26\u0c43\u0c36\u0c4d\u0c2f \u0c38\u0c2e\u0c3e\u0c1a\u0c3e\u0c30\u0c3e\u0c28\u0c4d\u0c28\u0c3f \u0c2a\u0c4d\u0c30\u0c26\u0c30\u0c4d\u0c36\u0c3f\u0c02\u0c1a\u0c21\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c09\u0c2a\u0c2f\u0c4b\u0c17\u0c3f\u0c02\u0c1a\u0c2c\u0c21\u0c41\u0c24\u0c41\u0c02\u0c26\u0c3f, \u0c07\u0c26\u0c3f \u0c21\u0c4d\u0c30\u0c48\u0c35\u0c3f\u0c02\u0c17\u0c4d \u0c05\u0c28\u0c41\u0c2d\u0c35\u0c3e\u0c28\u0c4d\u0c28\u0c3f \u0c2e\u0c46\u0c30\u0c41\u0c17\u0c41\u0c2a\u0c30\u0c1a\u0c21\u0c02\u0c32\u0c4b \u0c38\u0c39\u0c3e\u0c2f\u0c2a\u0c21\u0c41\u0c24\u0c41\u0c02\u0c26\u0c3f.",
+        "timestamp": "2025-09-20T08:19:12.592173"
+      },
+      {
+        "role": "user",
+        "content": "why is a pi camera used with 7 inch display",
+        "timestamp": "2025-09-20T08:25:00.554544"
+      },
+      {
+        "role": "assistant",
+        "content": "The document does not explicitly state why a Pi camera is used alongside the 7-inch display. However, it can be inferred that the Pi camera is likely used to provide visual feedback to the driver while reversing, which can be displayed on the 7-inch screen. This combination would enhance the driver's ability to maneuver the vehicle safely into tight spaces by offering a clear view of the surroundings.",
+        "timestamp": "2025-09-20T08:25:00.559778"
+      }
+    ]
+  },
+  "5f92b96f-7b97-40d3-b9bc-1969b3adf3a2": {
+    "session_id": "5f92b96f-7b97-40d3-b9bc-1969b3adf3a2",
+    "document_name": "G5_DHWANI.pdf",
+    "file_path": "temp\\G5_DHWANI.pdf",
+    "file_type": "pdf",
+    "user_id": 2,
+    "created_at": "2025-07-25T12:39:08.365564",
+    "last_accessed": "2025-07-25T12:40:08.240674",
+    "chat_history": [
+      {
+        "role": "user",
+        "content": "summarize",
+        "timestamp": "2025-07-25T12:40:08.236663"
+      },
+      {
+        "role": "assistant",
+        "content": "The project titled \"DHWANI: Driving and Hazard Warning Assistance for the Hearing-Impaired\" aims to enhance driving safety for individuals with hearing impairments by developing a driving assistance system. The key objectives include programming an LSTM model for color-coded outputs of auditory signals, integrating the DHWANI device with car systems, and delivering a functional prototype by the semester's end.\n\nThe introduction highlights the challenges faced by hearing-impaired drivers, who cannot rely on auditory cues like sirens. The problem statement emphasizes the need for a system that provides visual alerts to improve safety. The literature survey reviews existing studies and technologies that assist hearing-impaired drivers, noting that many focus on older drivers and cognitive workload.\n\nDeliverables for the project include refining the LSTM model for analyzing emergency vehicle sounds, integrating it with Raspberry Pi hardware, and displaying outputs on an intuitive interface. The proposed methodology involves thorough research, hardware integration, and the development of code for efficient functionality. Required hardware includes a Raspberry Pi 4, TFT LCD display, and USB microphone.",
+        "timestamp": "2025-07-25T12:40:08.238651"
+      }
+    ]
+  },
+  "d85d92cb-e4a2-45a8-aecf-1e509849a223": {
+    "session_id": "d85d92cb-e4a2-45a8-aecf-1e509849a223",
+    "document_name": "REVERSE CAR PARKING.pdf",
+    "file_path": "temp\\REVERSE CAR PARKING.pdf",
+    "file_type": "pdf",
+    "user_id": 1,
+    "created_at": "2025-07-25T14:36:30.440308",
+    "last_accessed": "2025-09-19T23:08:04.672093",
+    "chat_history": [
+      {
+        "role": "user",
+        "content": "give me summary",
+        "timestamp": "2025-07-25T14:36:54.643816"
+      },
+      {
+        "role": "assistant",
+        "content": "The document outlines a project proposal for a \"Reverse Car Parking System and Automatic Speed Control.\" The main deliverable is a system designed to assist drivers in parking their electric vehicles (EVs) by using audio-visual signals and incorporating automatic speed control to reduce the risk of accidents during prolonged reversing.\n\nKey components specified for the project include a Raspberry Pi, a 7\u201d display, L293D motor IC, ultrasound sensors, a Pi camera, and various connection cables. The project aims to enhance parking safety and efficiency in tight spaces.\n\nThe team consists of two members: Abhinav Tripathi and Karmanya Bhalla, both in their second semester. Their contact information is provided in the document.",
+        "timestamp": "2025-07-25T14:36:54.646010"
+      },
+      {
+        "role": "user",
+        "content": "summarizr",
+        "timestamp": "2025-09-19T19:29:43.449990"
+      },
+      {
+        "role": "assistant",
+        "content": "The document presents a project proposal for a \"Reverse Car Parking System and Automatic Speed Control.\" The system aims to assist drivers of electric vehicles (EVs) in parking by using audio-visual signals and includes a feature to control speed during prolonged reversing to enhance safety.\n\nKey components listed for the project include:\n- Raspberry Pi\n- 7\u201d display\n- L293D motor IC\n- Ultrasound sensors\n- Pi camera\n- Jumper cables and custom motor driver PCB\n\nThe project is being developed by two second-semester students, Abhinav Tripathi and Karmanya Bhalla, with their contact details provided. The objective is to improve parking efficiency and safety in tight spaces.",
+        "timestamp": "2025-09-19T19:29:43.449990"
+      },
+      {
+        "role": "user",
+        "content": "rasberyy pi kya hota kyu hota h",
+        "timestamp": "2025-09-19T19:30:43.071317"
+      },
+      {
+        "role": "assistant",
+        "content": "Document context does not provide information about what a Raspberry Pi is or its purpose. Therefore, I cannot answer your question based on the provided context. If you have other questions related to the document, feel free to ask!",
+        "timestamp": "2025-09-19T19:30:43.072314"
+      },
+      {
+        "role": "user",
+        "content": "ye project kiske baare me",
+        "timestamp": "2025-09-19T19:31:12.603204"
+      },
+      {
+        "role": "assistant",
+        "content": "Ye project \"Reverse Car Parking System and Automatic Speed Control\" ke baare mein hai. Iska maksad ek aisa system tayar karna hai jo electric vehicles (EVs) ko parking mein madad kare, khaas taur par jab vehicles ko tight spaces mein park karna ho. \n\nProject mein audio-visual signals ka istemal kiya jayega taaki drivers ko unki vehicles maneuver karne mein madad mile. Iske alawa, system mein automatic speed control feature bhi hoga jo prolonged car reversal par activate hoga, isse accidents ka khatra kam hoga. \n\nIs project ke liye kuch electronic components jaise Raspberry Pi, ultrasound sensors, aur Pi camera ka istemal kiya jayega. Team ke do members hain: Abhinav Tripathi aur Karmanya Bhalla.",
+        "timestamp": "2025-09-19T19:31:12.604205"
+      },
+      {
+        "role": "user",
+        "content": "ee project descrription cheppu \nyela chesyadu ani",
+        "timestamp": "2025-09-19T19:31:44.140183"
+      },
+      {
+        "role": "assistant",
+        "content": "Ee project \"Reverse Car Parking System and Automatic Speed Control\" gurinchi undi. Ikkada project ni develop cheyadaniki plan chesaru, dani valla drivers ki tight spaces lo vehicles ni park cheyadaniki madat chestundi. \n\n**Project Description:**\n- **Objective:** Reverse car parking system ni develop cheyadam, automatic speed control to paatu.\n- **Functionality:** Ee system audio-visual signals ni use chesi drivers ki vehicles ni maneuver cheyadaniki help chestundi. \n- **Safety Feature:** Prolonged car reversal jarigina appudu automatic speed control activate avuthundi, idi accidents ni tagginchadaniki sahayapadutundi.\n\n**Components:**\n- Raspberry Pi\n- 7\u201d display\n- L293D motor IC\n- Ultrasound sensors\n- Pi camera\n- Jumper cables and custom motor driver PCB\n\nIla, ee project lo various electronic components ni use chesi, safety and efficiency ni improve cheyadaniki aim chesaru.",
+        "timestamp": "2025-09-19T19:31:44.140183"
+      },
+      {
+        "role": "user",
+        "content": "jumper cables enduku use cesyadu \ninka pi camera ye purpose undi",
+        "timestamp": "2025-09-19T19:32:46.405723"
+      },
+      {
+        "role": "assistant",
+        "content": "Document context does not provide specific information about the purpose of jumper cables or the Pi camera in the project. Therefore, I cannot answer your question based on the provided context. If you have other questions related to the document, feel free to ask!",
+        "timestamp": "2025-09-19T19:32:46.405723"
+      },
+      {
+        "role": "user",
+        "content": "jumper cables enduku use cesyadu\ninka pi camera ye purpose undi",
+        "timestamp": "2025-09-19T19:38:35.423583"
+      },
+      {
+        "role": "assistant",
+        "content": "**Jumper Cables:**\nJumper cables are used in the project for connections and control. They facilitate the electrical connections between various components of the system, ensuring that power and signals can be transmitted effectively.\n\n**Pi Camera:**\nThe Pi camera, which has a specification of 2MP, is likely used for capturing visual data to assist in the parking process. It can provide real-time video or images to help drivers maneuver their vehicles into tight spaces more safely and accurately. \n\nThese details are inferred from the context provided in Section 1 of the document.",
+        "timestamp": "2025-09-19T19:38:35.423583"
+      },
+      {
+        "role": "user",
+        "content": "ultrasonic sensors enduku use cesyadu\ninka pi camera ye purpose undi",
+        "timestamp": "2025-09-19T19:39:14.634116"
+      },
+      {
+        "role": "assistant",
+        "content": "**Ultrasonic Sensors:**\nUltrasonic sensors are used in the project to detect obstacles and measure distances while the vehicle is reversing. They help in providing accurate information about the proximity of objects around the vehicle, which is crucial for safe maneuvering in tight spaces.\n\n**Pi Camera:**\nThe Pi camera, with a specification of 2MP, is used to capture visual data that assists drivers in parking. It can provide real-time images or video feeds, enhancing the driver's awareness of their surroundings and helping them navigate into parking spots more safely.\n\nThese functionalities are inferred from the context provided in Section 1 of the document.",
+        "timestamp": "2025-09-19T19:39:14.634116"
+      },
+      {
+        "role": "user",
+        "content": "ultrasonic sensors enduku use cesyadu\ninka pi camera ye purpose undi",
+        "timestamp": "2025-09-19T19:42:53.518179"
+      },
+      {
+        "role": "assistant",
+        "content": "**Ultrasonic Sensors:**\nUltrasonic sensors are used in the project to assist in detecting obstacles and measuring distances while the vehicle is reversing. This functionality is crucial for ensuring safety and preventing accidents by providing real-time feedback on the proximity of objects around the vehicle.\n\n**Pi Camera:**\nThe Pi camera, specified as 2MP, is utilized to capture visual data that aids drivers in parking. It provides real-time images or video feeds, enhancing the driver's awareness of their surroundings and facilitating safer maneuvering into tight parking spaces.\n\nThese purposes are directly derived from the project description in Section 1 of the document.",
+        "timestamp": "2025-09-19T19:42:53.522183"
+      },
+      {
+        "role": "user",
+        "content": "What is Ultrasonic Sensor?",
+        "timestamp": "2025-09-19T20:23:43.965305"
+      },
+      {
+        "role": "assistant",
+        "content": "The document does not provide a specific definition or detailed explanation of what an ultrasonic sensor is. Therefore, I cannot answer your question based on the provided context. If you have other questions related to the document, feel free to ask!",
+        "timestamp": "2025-09-19T20:23:43.965305"
+      },
+      {
+        "role": "user",
+        "content": "Is Ananya Bhadvi",
+        "timestamp": "2025-09-19T20:24:07.410302"
+      },
+      {
+        "role": "assistant",
+        "content": "The document does not mention Ananya Bhadvi or provide any information related to that name. Therefore, I cannot answer your question based on the provided context. If you have other questions related to the document, feel free to ask!",
+        "timestamp": "2025-09-19T20:24:07.410302"
+      },
+      {
+        "role": "user",
+        "content": "What is Ultrasonic Sensor?",
+        "timestamp": "2025-09-19T20:24:41.751123"
+      },
+      {
+        "role": "assistant",
+        "content": "An ultrasonic sensor is a device that uses ultrasonic waves to measure distance or detect objects. It emits sound waves at a frequency higher than the audible range and listens for the echo of those waves as they bounce back from nearby objects. By calculating the time it takes for the sound waves to return, the sensor can determine the distance to the object.\n\nIn the context of the project, ultrasonic sensors are used to assist in detecting obstacles and measuring distances while the vehicle is reversing, which is crucial for ensuring safety and preventing accidents.",
+        "timestamp": "2025-09-19T20:24:41.752740"
+      },
+      {
+        "role": "user",
+        "content": "Brother, what is the function of the camera and why have you used it?",
+        "timestamp": "2025-09-19T20:25:06.127048"
+      },
+      {
+        "role": "assistant",
+        "content": "The Pi camera, specified as 2MP in the project, is used to capture visual data that assists drivers in parking their vehicles. Its function is to provide real-time images or video feeds, which enhance the driver's awareness of their surroundings. This capability is particularly useful for maneuvering into tight parking spaces, helping to ensure safer and more accurate parking.",
+        "timestamp": "2025-09-19T20:25:06.127048"
+      },
+      {
+        "role": "user",
+        "content": "How to connect a Raspberry Pi to a Pi Cam?",
+        "timestamp": "2025-09-19T22:38:57.973488"
+      },
+      {
+        "role": "assistant",
+        "content": "The document does not provide specific instructions on how to connect a Raspberry Pi to a Pi camera. Therefore, I cannot answer your question based on the provided context. If you have other questions related to the document, feel free to ask!",
+        "timestamp": "2025-09-19T22:38:57.973488"
+      },
+      {
+        "role": "user",
+        "content": "What is the use of a spy camera?",
+        "timestamp": "2025-09-19T22:40:06.756148"
+      },
+      {
+        "role": "assistant",
+        "content": "The document does not provide any information about a spy camera or its uses. Therefore, I cannot answer your question based on the provided context. If you have other questions related to the document, feel free to ask!",
+        "timestamp": "2025-09-19T22:40:06.760307"
+      },
+      {
+        "role": "user",
+        "content": "What is the use of a pie camera?",
+        "timestamp": "2025-09-19T22:40:23.378406"
+      },
+      {
+        "role": "assistant",
+        "content": "The Pi camera, specified as 2MP in the project, is used to capture visual data that assists drivers in parking their vehicles. Its primary function is to provide real-time images or video feeds, which enhance the driver's awareness of their surroundings, making it easier to maneuver into tight parking spaces safely and accurately.",
+        "timestamp": "2025-09-19T22:40:23.379419"
+      },
+      {
+        "role": "user",
+        "content": "He will lift that leg. He is giving the right answer. He is giving the right answer. But he should understand that it is a spider. No, he shouldn't understand.",
+        "timestamp": "2025-09-19T22:40:40.780027"
+      },
+      {
+        "role": "assistant",
+        "content": "The user question does not relate to the content of the document provided. If you have questions specifically about the project proposal or its components, please feel free to ask!",
+        "timestamp": "2025-09-19T22:40:40.780027"
+      },
+      {
+        "role": "user",
+        "content": "What is the use of Pi Camera in this project? Answer in Hindi.",
+        "timestamp": "2025-09-19T22:41:24.808227"
+      },
+      {
+        "role": "assistant",
+        "content": "Pi camera ka istemal is project mein vehicle parking mein madad karne ke liye hota hai. Ye 2MP camera real-time images ya video feeds capture karta hai, jo drivers ko unke aas-paas ki jagah ka awareness badhata hai. Isse drivers ko tight parking spaces mein safely aur accurately maneuver karne mein madad milti hai.",
+        "timestamp": "2025-09-19T22:41:24.814929"
+      },
+      {
+        "role": "user",
+        "content": "Oh",
+        "timestamp": "2025-09-19T22:42:15.413578"
+      },
+      {
+        "role": "assistant",
+        "content": "It seems like your message was cut off or incomplete. If you have a specific question or need information related to the document, please let me know, and I'll be happy to assist you!",
+        "timestamp": "2025-09-19T22:42:15.417787"
+      },
+      {
+        "role": "user",
+        "content": "What is the function of ultrasonic sensor? Answer in Telugu",
+        "timestamp": "2025-09-19T22:42:32.708558"
+      },
+      {
+        "role": "assistant",
+        "content": "Ultrasonic sensor yokka function ante, idhi vehicle reverse chesetappudu obstacles ni detect cheyadaniki mariyu distances ni measure cheyadaniki upayoginchabadutundi. Ivi real-time feedback ni provide chesi, vehicle surroundings lo unna objects ki proximity ni telusukodaniki sahayapadutayi, which is crucial for safety and accidents ni tagginchadaniki.",
+        "timestamp": "2025-09-19T22:42:32.711897"
+      },
+      {
+        "role": "user",
+        "content": "What is the use of ultrasonic sensor? Give me three answers. One in written English, one in written Hindi and one in written Telugu.",
+        "timestamp": "2025-09-19T22:43:19.505858"
+      },
+      {
+        "role": "assistant",
+        "content": "**English:**\nThe ultrasonic sensor is used to detect obstacles while the vehicle is reversing, measure distances to nearby objects, and provide real-time feedback to enhance safety during parking maneuvers.\n\n**Hindi:**\nUltrasonic sensor ka istemal vehicle reverse karte waqt obstacles ko detect karne, aas-paas ke objects ki distances ko measure karne, aur parking maneuvers ke dauran safety ko badhane ke liye real-time feedback dene ke liye hota hai.\n\n**Telugu:**\nUltrasonic sensor yokka upayog vehicle reverse chesetappudu obstacles ni detect cheyadaniki, aas-paas unna objects ki distances ni measure cheyadaniki, mariyu parking maneuvers chesetappudu safety ni penchadaniki real-time feedback ivvadam kosam chestundi.",
+        "timestamp": "2025-09-19T22:43:19.505858"
+      },
+      {
+        "role": "user",
+        "content": "Convert the above answers to Hindi Leepy",
+        "timestamp": "2025-09-19T22:43:49.715435"
+      },
+      {
+        "role": "assistant",
+        "content": "Here are the answers converted to Hindi Leepy:\n\n**English:**\nUltrasonic sensor ka istemal vehicle reverse karte waqt obstacles ko detect karne, aas-paas ke objects ki distances ko measure karne, aur parking maneuvers ke dauran safety ko badhane ke liye real-time feedback dene ke liye hota hai.\n\n**Hindi:**\n\u0905\u0932\u094d\u091f\u094d\u0930\u093e\u0938\u094b\u0928\u093f\u0915 \u0938\u0947\u0902\u0938\u0930 \u0915\u093e \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932 \u0935\u093e\u0939\u0928 \u0930\u093f\u0935\u0930\u094d\u0938 \u0915\u0930\u0924\u0947 \u0935\u0915\u094d\u0924 \u0911\u092c\u094d\u0938\u094d\u091f\u0947\u0915\u0932\u094d\u0938 \u0915\u094b \u0921\u093f\u091f\u0947\u0915\u094d\u091f \u0915\u0930\u0928\u0947, \u0906\u0938-\u092a\u093e\u0938 \u0915\u0947 \u0911\u092c\u094d\u091c\u0947\u0915\u094d\u091f\u094d\u0938 \u0915\u0940 \u0921\u093f\u0938\u094d\u091f\u0947\u0902\u0938 \u0915\u094b \u092e\u093e\u092a\u0928\u0947, \u0914\u0930 \u092a\u093e\u0930\u094d\u0915\u093f\u0902\u0917 \u092e\u0948\u0928\u094d\u092f\u0941\u0935\u0930\u094d\u0938 \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u0938\u0947\u092b\u094d\u091f\u0940 \u0915\u094b \u092c\u0922\u093c\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0930\u093f\u092f\u0932-\u091f\u093e\u0907\u092e \u092b\u0940\u0921\u092c\u0948\u0915 \u0926\u0947\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0939\u094b\u0924\u093e \u0939\u0948\u0964\n\n**Telugu:**\n\u0c05\u0c32\u0c4d\u0c1f\u0c4d\u0c30\u0c3e\u0c38\u0c4b\u0c28\u0c3f\u0c15\u0c4d \u0c38\u0c46\u0c28\u0c4d\u0c38\u0c3e\u0c30\u0c4d \u0c2f\u0c4a\u0c15\u0c4d\u0c15 \u0c09\u0c2a\u0c2f\u0c4b\u0c17\u0c02 \u0c35\u0c3e\u0c39\u0c28\u0c02 \u0c30\u0c3f\u0c35\u0c30\u0c4d\u0c38\u0c4d \u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c05\u0c21\u0c4d\u0c21\u0c02\u0c15\u0c41\u0c32\u0c28\u0c41 \u0c17\u0c41\u0c30\u0c4d\u0c24\u0c3f\u0c02\u0c1a\u0c21\u0c3e\u0c28\u0c3f\u0c15\u0c3f, \u0c1a\u0c41\u0c1f\u0c4d\u0c1f\u0c41\u0c2a\u0c15\u0c4d\u0c15\u0c32 \u0c35\u0c38\u0c4d\u0c24\u0c41\u0c35\u0c41\u0c32 \u0c26\u0c42\u0c30\u0c3e\u0c32\u0c28\u0c41 \u0c15\u0c4a\u0c32\u0c3f\u0c1a\u0c47\u0c02\u0c26\u0c41\u0c15\u0c41, \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c2a\u0c3e\u0c30\u0c4d\u0c15\u0c3f\u0c02\u0c17\u0c4d \u0c2e\u0c3e\u0c28\u0c4d\u0c2f\u0c41\u0c35\u0c30\u0c4d\u0c38\u0c4d \u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c2d\u0c26\u0c4d\u0c30\u0c24\u0c28\u0c41 \u0c2a\u0c46\u0c02\u0c1a\u0c21\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c30\u0c3f\u0c2f\u0c32\u0c4d-\u0c1f\u0c48\u0c2e\u0c4d \u0c2b\u0c40\u0c21\u0c4d\u0c2c\u0c4d\u0c2f\u0c3e\u0c15\u0c4d \u0c07\u0c35\u0c4d\u0c35\u0c21\u0c02 \u0c15\u0c4b\u0c38\u0c02 \u0c09\u0c02\u0c1f\u0c41\u0c02\u0c26\u0c3f.",
+        "timestamp": "2025-09-19T22:43:49.717945"
+      },
+      {
+        "role": "user",
+        "content": "Give the above answers in Kannada, Hindi and Malayalam.",
+        "timestamp": "2025-09-19T22:46:26.900822"
+      },
+      {
+        "role": "assistant",
+        "content": "Here are the answers translated into Kannada, Hindi, and Malayalam:\n\n**Kannada:**\n\u0c85\u0cb2\u0ccd\u0c9f\u0ccd\u0cb0\u0cbe\u0cb8\u0ccb\u0ca8\u0cbf\u0c95\u0ccd \u0cb8\u0cc6\u0ca8\u0ccd\u0cb8\u0cb0\u0ccd \u0c85\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb5\u0cbe\u0cb9\u0ca8\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb9\u0cbf\u0c82\u0ca6\u0c95\u0ccd\u0c95\u0cc6 \u0cb8\u0cbe\u0c97\u0cbf\u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0cb0\u0cc1\u0cb5\u0cbe\u0c97 \u0c85\u0ca1\u0ccd\u0ca1\u0cbf\u0caf\u0cc1\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0c97\u0cc1\u0cb0\u0cc1\u0ca4\u0cbf\u0cb8\u0cb2\u0cc1, \u0cb8\u0cc1\u0ca4\u0ccd\u0ca4\u0cb2\u0cc2 \u0c87\u0cb0\u0cc1\u0cb5 \u0cb5\u0cb8\u0ccd\u0ca4\u0cc1\u0c97\u0cb3 \u0c85\u0c82\u0ca4\u0cb0\u0cb5\u0ca8\u0ccd\u0ca8\u0cc1 \u0c85\u0cb3\u0cc6\u0caf\u0cb2\u0cc1 \u0cae\u0ca4\u0ccd\u0ca4\u0cc1 \u0caa\u0cbe\u0cb0\u0ccd\u0c95\u0cbf\u0c82\u0c97\u0ccd \u0c9a\u0cb2\u0ca8\u0cc6\u0c97\u0cb3 \u0cb8\u0cae\u0caf\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0cb8\u0cc1\u0cb0\u0c95\u0ccd\u0cb7\u0ca4\u0cc6\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0cb8\u0cb2\u0cc1 \u0ca8\u0cbf\u0c96\u0cb0\u0cb5\u0cbe\u0ca6 \u0caa\u0ccd\u0cb0\u0ca4\u0cbf\u0c95\u0ccd\u0cb0\u0cbf\u0caf\u0cc6 \u0ca8\u0cc0\u0ca1\u0cb2\u0cc1 \u0cac\u0cb3\u0cb8\u0cb2\u0cbe\u0c97\u0cc1\u0ca4\u0ccd\u0ca4\u0ca6\u0cc6.\n\n**Hindi:**\n\u0905\u0932\u094d\u091f\u094d\u0930\u093e\u0938\u094b\u0928\u093f\u0915 \u0938\u0947\u0902\u0938\u0930 \u0915\u093e \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932 \u0935\u093e\u0939\u0928 \u0930\u093f\u0935\u0930\u094d\u0938 \u0915\u0930\u0924\u0947 \u0935\u0915\u094d\u0924 \u0911\u092c\u094d\u0938\u094d\u091f\u0947\u0915\u0932\u094d\u0938 \u0915\u094b \u0921\u093f\u091f\u0947\u0915\u094d\u091f \u0915\u0930\u0928\u0947, \u0906\u0938-\u092a\u093e\u0938 \u0915\u0947 \u0911\u092c\u094d\u091c\u0947\u0915\u094d\u091f\u094d\u0938 \u0915\u0940 \u0921\u093f\u0938\u094d\u091f\u0947\u0902\u0938 \u0915\u094b \u092e\u093e\u092a\u0928\u0947, \u0914\u0930 \u092a\u093e\u0930\u094d\u0915\u093f\u0902\u0917 \u092e\u0948\u0928\u094d\u092f\u0941\u0935\u0930\u094d\u0938 \u0915\u0947 \u0926\u094c\u0930\u093e\u0928 \u0938\u0947\u092b\u094d\u091f\u0940 \u0915\u094b \u092c\u0922\u093c\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0930\u093f\u092f\u0932-\u091f\u093e\u0907\u092e \u092b\u0940\u0921\u092c\u0948\u0915 \u0926\u0947\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0939\u094b\u0924\u093e \u0939\u0948\u0964\n\n**Malayalam:**\n\u0d05\u0d7d\u0d1f\u0d4d\u0d30\u0d3e\u0d38\u0d4b\u0d23\u0d3f\u0d15\u0d4d \u0d38\u0d46\u0d7b\u0d38\u0d7c \u0d35\u0d3e\u0d39\u0d28\u0d19\u0d4d\u0d19\u0d7e \u0d2a\u0d3f\u0d7b\u0d35\u0d3e\u0d19\u0d4d\u0d19\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d7e \u0d24\u0d1f\u0d38\u0d4d\u0d38\u0d19\u0d4d\u0d19\u0d7e \u0d15\u0d23\u0d4d\u0d1f\u0d46\u0d24\u0d4d\u0d24\u0d3e\u0d7b, \u0d1a\u0d41\u0d31\u0d4d\u0d31\u0d41\u0d2a\u0d3e\u0d1f\u0d3f\u0d32\u0d41\u0d33\u0d4d\u0d33 \u0d35\u0d38\u0d4d\u0d24\u0d41\u0d15\u0d4d\u0d15\u0d33\u0d41\u0d1f\u0d46 \u0d05\u0d15\u0d32\u0d02 \u0d05\u0d33\u0d15\u0d4d\u0d15\u0d3e\u0d7b, \u0d15\u0d42\u0d1f\u0d3e\u0d24\u0d46 \u0d2a\u0d3e\u0d7c\u0d15\u0d4d\u0d15\u0d3f\u0d02\u0d17\u0d4d \u0d2a\u0d4d\u0d30\u0d35\u0d7c\u0d24\u0d4d\u0d24\u0d28\u0d19\u0d4d\u0d19\u0d7e\u0d15\u0d4d\u0d15\u0d3f\u0d1f\u0d2f\u0d3f\u0d7d \u0d38\u0d41\u0d30\u0d15\u0d4d\u0d37 \u0d35\u0d7c\u0d26\u0d4d\u0d27\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d7b \u0d2f\u0d3e\u0d25\u0d3e\u0d7c\u0d24\u0d4d\u0d25\u0d4d\u0d2f \u0d38\u0d2e\u0d2f \u0d2b\u0d40\u0d21\u0d4d\u0d2c\u0d3e\u0d15\u0d4d\u0d15\u0d4d \u0d28\u0d7d\u0d15\u0d3e\u0d7b \u0d09\u0d2a\u0d2f\u0d4b\u0d17\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41.",
+        "timestamp": "2025-09-19T22:46:26.905739"
+      },
+      {
+        "role": "user",
+        "content": "What is the use of an ultrasonic sensor? Give me three answers, they'll go Tamil and Malayalam.",
+        "timestamp": "2025-09-19T23:08:04.667753"
+      },
+      {
+        "role": "assistant",
+        "content": "Here are the answers translated into Tamil and Malayalam:\n\n**Tamil:**\n\u0b85\u0bb2\u0bcd\u0b9f\u0bcd\u0bb0\u0bbe\u0b9a\u0bcb\u0ba9\u0bbf\u0b95\u0bcd \u0b9a\u0bc6\u0ba9\u0bcd\u0b9a\u0bb0\u0bbf\u0ba9\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0bbe\u0b9f\u0bc1, \u0bb5\u0bbe\u0b95\u0ba9\u0bae\u0bcd \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bc1\u0bae\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0ba4\u0b9f\u0bc8\u0b95\u0bb3\u0bc8 \u0b95\u0ba3\u0bcd\u0b9f\u0bb1\u0bbf\u0baf, \u0b85\u0bb0\u0bc1\u0b95\u0bbf\u0bb2\u0bc1\u0bb3\u0bcd\u0bb3 \u0baa\u0bca\u0bb0\u0bc1\u0b9f\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0ba4\u0bc2\u0bb0\u0ba4\u0bcd\u0ba4\u0bc8 \u0b85\u0bb3\u0b95\u0bcd\u0b95, \u0bae\u0bb1\u0bcd\u0bb1\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0bb0\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0b9a\u0bc6\u0baf\u0bb2\u0bcd\u0baa\u0bbe\u0b9f\u0bc1\u0b95\u0bb3\u0bcd \u0baa\u0bcb\u0ba4\u0bc1 \u0baa\u0bbe\u0ba4\u0bc1\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bc8 \u0bae\u0bc7\u0bae\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bc1 \u0ba8\u0bc7\u0bb0\u0b9f\u0bbf \u0baa\u0bbf\u0ba9\u0bcd\u0ba9\u0bc2\u0b9f\u0bcd\u0b9f\u0ba4\u0bcd\u0ba4\u0bc8 \u0bb5\u0bb4\u0b99\u0bcd\u0b95\u0bc1\u0bb5\u0ba4\u0bb1\u0bcd\u0b95\u0bbe\u0b95\u0baa\u0bcd \u0baa\u0baf\u0ba9\u0bcd\u0baa\u0b9f\u0bc1\u0ba4\u0bcd\u0ba4\u0baa\u0bcd\u0baa\u0b9f\u0bc1\u0b95\u0bbf\u0bb1\u0ba4\u0bc1.\n\n**Malayalam:**\n\u0d05\u0d7d\u0d1f\u0d4d\u0d30\u0d3e\u0d38\u0d4b\u0d23\u0d3f\u0d15\u0d4d \u0d38\u0d46\u0d7b\u0d38\u0d7c \u0d35\u0d3e\u0d39\u0d28\u0d19\u0d4d\u0d19\u0d7e \u0d2a\u0d3f\u0d7b\u0d35\u0d3e\u0d19\u0d4d\u0d19\u0d41\u0d2e\u0d4d\u0d2a\u0d4b\u0d7e \u0d24\u0d1f\u0d38\u0d4d\u0d38\u0d19\u0d4d\u0d19\u0d7e \u0d15\u0d23\u0d4d\u0d1f\u0d46\u0d24\u0d4d\u0d24\u0d3e\u0d7b, \u0d1a\u0d41\u0d31\u0d4d\u0d31\u0d41\u0d2a\u0d3e\u0d1f\u0d3f\u0d32\u0d41\u0d33\u0d4d\u0d33 \u0d35\u0d38\u0d4d\u0d24\u0d41\u0d15\u0d4d\u0d15\u0d33\u0d41\u0d1f\u0d46 \u0d05\u0d15\u0d32\u0d02 \u0d05\u0d33\u0d15\u0d4d\u0d15\u0d3e\u0d7b, \u0d15\u0d42\u0d1f\u0d3e\u0d24\u0d46 \u0d2a\u0d3e\u0d7c\u0d15\u0d4d\u0d15\u0d3f\u0d02\u0d17\u0d4d \u0d2a\u0d4d\u0d30\u0d35\u0d7c\u0d24\u0d4d\u0d24\u0d28\u0d19\u0d4d\u0d19\u0d7e\u0d15\u0d4d\u0d15\u0d3f\u0d1f\u0d2f\u0d3f\u0d7d \u0d38\u0d41\u0d30\u0d15\u0d4d\u0d37 \u0d35\u0d7c\u0d26\u0d4d\u0d27\u0d3f\u0d2a\u0d4d\u0d2a\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d7b \u0d2f\u0d3e\u0d25\u0d3e\u0d7c\u0d24\u0d4d\u0d25\u0d4d\u0d2f \u0d38\u0d2e\u0d2f \u0d2b\u0d40\u0d21\u0d4d\u0d2c\u0d3e\u0d15\u0d4d\u0d15\u0d4d \u0d28\u0d7d\u0d15\u0d3e\u0d7b \u0d09\u0d2a\u0d2f\u0d4b\u0d17\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28\u0d41.",
+        "timestamp": "2025-09-19T23:08:04.669275"
+      }
+    ]
+  }
+}

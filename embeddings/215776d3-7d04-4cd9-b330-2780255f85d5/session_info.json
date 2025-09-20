@@ -1,0 +1,6 @@
+{
+  "session_id": "215776d3-7d04-4cd9-b330-2780255f85d5",
+  "num_chunks": 19,
+  "embedding_model": "text-embedding-3-small",
+  "index_dimension": 1536
+}
